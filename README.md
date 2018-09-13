@@ -1,2 +1,2 @@
 # firstGitProject
-这是第一个git项目
+这是第一个测试github项目
